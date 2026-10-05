@@ -7,3 +7,4 @@ matplotlib
 jupytext
 jupyterlab
 papermill
+pillow
