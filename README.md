@@ -31,10 +31,9 @@ data/
   senedd/        Senedd committee transcripts
   git_log/       Linux kernel and PyTorch commit messages
 notebooks/
-  01_embed_git_log.ipynb   embed the history of your own git repository
   02_embed_csv.ipynb       embed one of the datasets above, by name
   03_explore.ipynb         search, cluster, project and explore embeddings
-  04_embed_images.ipynb    embed a folder of photos with CLIP
+  04_embed_images.ipynb    embed a folder of photos with CLIP (TBD)
   presets.py               the dataset presets used by 02
   loaders.py               helpers for reading data
 outputs/                   embeddings written by the notebooks (not committed)
@@ -66,7 +65,7 @@ Each label is held out: it is never embedded, so the notebooks can test whether 
 
 - **A CSV:** add an entry to `notebooks/presets.py` with the file path, the column(s) to embed, an optional label column and an optional filter. Then use its name as `DATASET`.
 - **A git repository:** `01_embed_git_log.ipynb` embeds the commit history of any local repo.
-- **Photos:** `04_embed_images.ipynb` embeds a folder of images with CLIP, so you can search them with text.
+- **Photos:** `04_embed_images.ipynb` embeds a folder of images with CLIP, so you can search them with text. (TBD)
 
 Your data stays on your machine. `outputs/` is not committed. Please never commit personal data to this repo.
 
