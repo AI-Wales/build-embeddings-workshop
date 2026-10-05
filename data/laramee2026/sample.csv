@@ -1,0 +1,25 @@
+Transaction Number,Transaction Date,Transaction Type,Transaction Description,Debit Amount,Credit Amount,Balance,Category,Location City,Location Country
+1,25/07/2022,BP,SAVE THE CHANGE,3.11,,541.43,Savings,Nottingham,UK
+2,25/07/2022,DEB,LIDL GB  NOTTINGHA,15.02,,544.54,Groceries,Nottingham,UK
+3,25/07/2022,DEB,NON-GBP PURCH FEE,0.5,,559.56,Others,Nottingham,UK
+4,25/07/2022,DEB,NON-GBP TRANS FEE,0.37,,560.06,Others,Nottingham,UK
+5,25/07/2022,DEB,TRAVELIUM LLC,12.59,,560.43,,,
+6,25/07/2022,DEB,Audible UK,7.99,,573.02,Entertainment,Nottingham,UK
+7,25/07/2022,FPO,MISS D WU,25,,581.01,Services,Nottingham,UK
+8,25/07/2022,DEB,SAINSBURYS S/MKTS,35.57,,606.01,Groceries,Nottingham,UK
+9,22/07/2022,DEB,LIDL GB  NOTTINGHA,18.21,,641.58,Groceries,Nottingham,UK
+10,22/07/2022,DEB,Amazon.co.uk*VK6IN,13.51,,659.79,Amazon,Nottingham,UK
+11,22/07/2022,FPO,MR J DOME,175,,673.3,Services,Nottingham,UK
+12,21/07/2022,FPO,MISS D WU,35,,848.3,Services,Nottingham,UK
+13,20/07/2022,FPO,TRADING212UK,200,,883.3,Investment,Nottingham,UK
+14,20/07/2022,FPI,SHEILA SMITH,,390,1083.3,Supplementary Income,Nottingham,UK
+15,20/07/2022,BP,SAVE THE CHANGE,0.65,,693.3,Savings,Nottingham,UK
+16,19/07/2022,DEB,THE TERRACE CAFE M,31.35,,693.95,Dine Out,,
+17,19/07/2022,BP,SAVE THE CHANGE,1.6,,725.3,Savings,Nottingham,UK
+18,18/07/2022,DEB,The Corinthian,7.4,,726.9,Dine Out,Nottingham,UK
+19,18/07/2022,DEB,The Corinthian,4.6,,734.3,Dine Out,Nottingham,UK
+20,18/07/2022,DEB,TIGERMILK EVENTS,4.5,,738.9,Entertainment,Plymouth,UK
+21,18/07/2022,DEB,UBER   *TRIP,11.9,,743.4,Travel,Plymouth,UK
+22,18/07/2022,DD,VIRGIN MEDIA PYMTS,56.25,,755.3,Bills,Nottingham,UK
+23,18/07/2022,DD,O2,17.95,,811.55,Other Shopping,Nottingham,UK
+24,18/07/2022,BP,SAVE THE CHANGE,2.4,,829.5,Savings,Nottingham,UK
