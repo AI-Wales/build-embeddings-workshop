@@ -1,2 +1,4 @@
 data/senedd/raw
 data/git_log/raw
+__pycache__/
+.ipynb_checkpoints/
