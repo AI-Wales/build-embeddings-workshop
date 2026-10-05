@@ -1,0 +1,9 @@
+sentence-transformers
+pandas
+numpy
+scikit-learn
+networkx
+matplotlib
+jupytext
+jupyterlab
+papermill
